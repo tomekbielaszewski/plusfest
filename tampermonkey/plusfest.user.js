@@ -5,9 +5,9 @@
 // @description  #plusafera
 // @match      http://www.wykop.pl/*
 // @copyright  2017, @Grizwold
-// @updateURL   https://raw.githubusercontent.com/tomekbielaszewski/plusfest/master/tampermonkey/plusfest.js
-// @installURL  https://raw.githubusercontent.com/tomekbielaszewski/plusfest/master/tampermonkey/plusfest.js
-// @downloadURL https://raw.githubusercontent.com/tomekbielaszewski/plusfest/master/tampermonkey/plusfest.js
+// @updateURL   https://github.com/tomekbielaszewski/plusfest/raw/master/tampermonkey/plusfest.user.js
+// @installURL  https://github.com/tomekbielaszewski/plusfest/raw/master/tampermonkey/plusfest.user.js
+// @downloadURL https://github.com/tomekbielaszewski/plusfest/raw/master/tampermonkey/plusfest.user.js
 // ==/UserScript==
 
 $(function(){
