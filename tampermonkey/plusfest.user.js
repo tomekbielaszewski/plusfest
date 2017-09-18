@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name       plusfest
 // @namespace  https://wykop.pl/
-// @version    1.0
+// @version    1.1
 // @description  #plusafera
 // @match      https://www.wykop.pl/*
 // @copyright  2017, @Grizwold
